@@ -1,14 +1,14 @@
 Hi 👋 My name is Tomás César
 ===============================
 
-Estudiante Fullstack Developer - Actualmente en búsqueda de empleo
+Full Stack Developer Trainee (STACK MERN)
 -------------------
 
-I am a FullStack programming student in the course offered by Rolling Code School. I have acquired skills in website design and development using HTML, CSS, and JavaScript, and I am currently learning React.
+Eager to contribute to impactful projects, I bring a passion for clean and efficient coding practices along with a dedication to continuous learning and professional growth.
 
 * 🌍  I'm based in Córdoba Argentina
 * ✉️  You can contact me at [tomascesar.dev@gmail.com](mailto:tomascesar.dev@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm currently focusing on mastering React as a MERN Stack
 * 🤝  I'm looking to collaborate on any project with these technologies
 * ⚡  In my spare time, I like to play the guitar, watch movies, and practice sports like soccer and basketball
 
@@ -21,6 +21,11 @@ I am a FullStack programming student in the course offered by Rolling Code Schoo
 <a title="CSS3" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a title="React" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36" height="36" alt="React" /></a>
+<a title="Node.js" href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+<a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a title="Express.js" href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>
+<a title="Postman" href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
 <br>
 <p><strong>Herramientas de colaboración:</strong></p>
 <p align="left">
