@@ -1,7 +1,7 @@
 Hi 👋 I'm Tomás César
 ===============================
 
-Full Stack Developer Trainee (STACK MERN) | Looking for a job
+Full Stack Developer Trainee (STACK MERN)
 -------------------
 
 Eager to contribute to impactful projects, I bring a passion for clean and efficient coding practices along with a dedication to continuous learning and professional growth.
