@@ -30,7 +30,7 @@ Eager to contribute to impactful projects, I bring a passion for clean and effic
 <p><strong>Herramientas de colaboración:</strong></p>
 <p align="left">
 <a title="Scrum" href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2784/2784065.png" width="36" height="36" alt="Scrum" /></a>
-<a title="Trello" href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFiKpFV7u1z9c_ALhRFQcmu4Rgjk1GJwlNN5cGWhff_sSllsr2" width="36" height="36" alt="Trello" /></a>
+<a title="Trello" href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://ibb.co/tDX22j2" width="36" height="36" alt="Trello" /></a>
 <a title="Slack" href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo" width="36" height="36" alt="Slack" /></a>
 
 
